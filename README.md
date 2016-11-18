@@ -11,7 +11,7 @@ _This web app will take a master word from the user as well as text to search th
 ## Setup/Installation Requirements
 
 * _This web app will run on most browsers_
-* [Link to Website](https://klinkow.github.io/project)
+* [https://blooming-eyrie-62934.herokuapp.com/](Word_Count)
 
 ## Support and contact details
 
