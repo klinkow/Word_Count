@@ -1,10 +1,24 @@
-<h1>Welcome to word counter!</h1>
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
+  </div>
+</nav>
+<br>
+<br>
 <form action="/result.erb">
-  <label for=master_word>Enter a master word:</label>
-  <input type="text" name="master_word">
-  <br>
-  <label for="search_text">Enter text to search through for occurances of your master word:</label>
-  <input type="text" name="search_text">
-  <br>
-  <button class="btn btn-success" type="submit">Search!</button>
+  <div class = "row">
+    <div class = "col-sm-3">
+    </div>
+    <div class = "col-sm-5">
+      <h1 style="text-align:center">Welcome to word counter!</h1>
+      <br>
+      <label for="master_word">Enter a master word:</label>
+      <input style="float:right" type="text" name="master_word">
+      <label for="search_text">Enter text to search for occurances <br> of your master word:</label>
+      <br>
+      <input style="float:right" type="text" name="search_text">
+      <br>
+      <br>
+      <button style="float:right" class="btn btn-success" type="submit">Search!</button>
+    </div>
+  </div>
 </form>
