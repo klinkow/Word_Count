@@ -3,7 +3,7 @@ require('./app')
 Capybara.app = Sinatra::Application
 set(:show_exceptions, false)
 
-describe 'the path of word_count', :type => :features do
+describe('the word_count path', {:type => :feature}) do
   it('will enter a master word and a search text and display number of occurances of the master word in the search text') do
     visit('/')
     fill_in('master_word', :with => 'cat')
