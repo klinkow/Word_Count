@@ -1,6 +1,6 @@
 # _Word Count_
 
-#### _A web app for counting words, 11/18/16_
+#### _A web app for counting words, 11/23/16_
 
 #### By _**Bill Klinkow**_
 
@@ -17,12 +17,13 @@ _This web app will take a master word from the user as well as text to search th
 * _Navigate browser to "localhost:4567" (unless previous step indicates a different local host number)._
 * _Enjoy!!_
 
-_The webapp files can be viewed online [here](https://github.com/klinkow/word_count)_
-_The webapp can be viewed [here](https://blooming-eyrie-62934.herokuapp.com/) as of 11/23/16_
+_The webapp files can be viewed online [here](https://github.com/klinkow/word_count)._
+
+_The webapp can be viewed [here](https://blooming-eyrie-62934.herokuapp.com/) as of 11/23/16._
 
 ## Support and contact details
 
-_if you have any issues contact klinkow@gmail.com_
+_If you have any issues contact klinkow@gmail.com_
 
 ## Technologies Used
 
