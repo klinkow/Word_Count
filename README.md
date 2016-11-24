@@ -10,8 +10,15 @@ _This web app will take a master word from the user as well as text to search th
 
 ## Setup/Installation Requirements
 
-* _This web app will run on most browsers_
-* [Word_Count](https://blooming-eyrie-62934.herokuapp.com/)
+* _Make sure you have git, ruby, and bundler gem installed._
+* _From the command line type "git clone https://github.com/klinkow/word_count.git" to download the webapp files._
+* _Navigate to the download directory in the command line and enter "bundle" to download additional required gems._
+* _Enter "ruby app.rb" to host the site locally._
+* _Navigate browser to "localhost:4567" (unless previous step indicates a different local host number)._
+* _Enjoy!!_
+
+_The webapp files can be viewed online [here](https://github.com/klinkow/word_count)_
+_The webapp can be viewed [here](https://blooming-eyrie-62934.herokuapp.com/) as of 11/23/16_
 
 ## Support and contact details
 
