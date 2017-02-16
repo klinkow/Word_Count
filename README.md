@@ -27,7 +27,7 @@ _If you have any issues contact klinkow@gmail.com_
 
 ## Technologies Used
 
-_Created with ruby and bootstrap. Hosted by Heroku._
+_Created with ruby and bootstrap.  Hosted by Heroku._
 
 ### License
 
